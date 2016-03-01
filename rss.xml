@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jake Israel]]></title>
         <description><![CDATA[Jake Israel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jake-israel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 07:51:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 08:00:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jake-israel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Soundless]]></title>
-            <description><![CDATA[<article><h1>Soundless</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d15ca51d-5ac6-48e2-b066-e5511202814e.jpg"></article>]]></description>
-            <link>undefinedsoundless/index.html</link>
+            <description><![CDATA[<article><h1>Soundless</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7716f2133b48a67b3cc51eda3b95486c583ca5c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jake-israel/soundless/index.html</link>
             <guid isPermaLink="false">6d819bde-f001-46f3-86d7-f5e1393fe023</guid>
-            <pubDate>Tue, 01 Mar 2016 07:50:00 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 07:59:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
